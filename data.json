@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+          "id": 1,
+          "name": "Final Offer",
+          "price": 55,
+          "image_link": "./img/image-1.jpg",
+          "color": "green"
+      },
+      {
+          "id": 2,
+          "name": "It ends with Us",
+          "price": 75,
+          "image_link": "./img/image-2.jpg",
+          "color": "pink"
+      },
+      {
+          "id": 3,
+          "name": "Atomic Habits",
+          "price": 35,
+          "image_link": "./img/image-3.jpg",
+          "color": "white"
+      },
+      {
+          "id": 4,
+          "name": "The creative Act",
+          "price": 20,
+          "image_link": "./img/image-4.jpg",
+          "color": "grey"
+      },
+      {
+          "id": 5,
+          "name": "Spare",
+          "price": 60,
+          "image_link": "./img/image-5.jpg",
+          "color": "beige"
+      },
+      {
+          "id": 6,
+          "name": "Digital minimalism",
+          "price": 90,
+          "image_link": "./img/image-6.jpg",
+          "color": "blue"
+      },
+      {
+          "id": 7,
+          "name": "Meditations",
+          "price": 50,
+          "image_link": "./img/image-7.jpg",
+          "color": "dark"
+      },
+      {
+          "id": 8,
+          "name": "How to think...",
+          "price": 80,
+          "image_link": "./img/image-8.jpg",
+          "color": "brown"
+      },
+      {
+          "id": 9,
+          "name": "Meditation of the Marcus",
+          "price": 70,
+          "image_link": "./img/image-9.jpg",
+          "color": "yellow"
+      },
+      {
+          "id": 10,
+          "name": "Lives of the...",
+          "price": 60,
+          "image_link": "./img/image-10.jpg",
+          "color": "red"
+      }
+  ]
+  
+  
+  }

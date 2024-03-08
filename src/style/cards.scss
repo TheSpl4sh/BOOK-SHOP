@@ -1,0 +1,26 @@
+.image_item {
+    height: 280px;
+}
+
+.details__button {
+    background: none;
+    border: none;
+    margin-top: 5px;
+    border-radius: 50%;
+
+    &::after {
+        content: url("../components/star.svg");
+        width: 16px;
+        height: 16px;
+    }
+}
+
+.cards {
+    display: inline-block;
+    border: 1px solid #d1d2d7;
+    padding-bottom: 10px;
+
+    background-color: #fff
+}
+
+

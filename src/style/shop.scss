@@ -1,0 +1,30 @@
+.shop_container {
+    max-width: 1520px;
+    padding: 0px 20px 0px 20px;
+    margin-top: 20px;
+
+    &--cards {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+        flex-wrap: wrap;
+    }
+
+    &--table {
+        display: flex;
+        flex-direction: column;
+        gap: 10px
+    }
+}
+
+.shop-button {
+    margin-top: 20px;
+    background-color: #4D762D;
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: none;
+    color: #F8FDFE;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

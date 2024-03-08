@@ -1,0 +1,22 @@
+.cart-container {
+    max-width: 1520px;
+    padding: 0px 20px 0px 20px;
+    margin-top: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.cart-container__product-list {
+    display: flex;
+    gap: 10px;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: flex-start
+}
+
+.cart-container__purchase-form {
+    flex: 1;
+}
+
